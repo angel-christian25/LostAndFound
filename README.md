@@ -61,7 +61,7 @@ Before you begin, you will need to have the following tools installed on your ma
 ```bash
 
 # Clone this repository
-$ git clone https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group07
+$ git clone https://github.com/angel-christian25/LostAndFound.git
 
 ```
 
